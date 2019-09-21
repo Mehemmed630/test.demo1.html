@@ -1,0 +1,22 @@
+*{
+ padding: 0;
+ margin: 0;
+ box-sizing: border-box;
+}
+
+body{
+    background-color: #E0D48A;
+}
+.center{
+    width: 60%;
+    margin: auto;
+    margin-top: 40px;
+}
+header{
+    background-color: #BCDA2D;
+}
+.bbb{
+    width: 30%;
+    margin-left: 70%;
+    padding: 4%;
+}
